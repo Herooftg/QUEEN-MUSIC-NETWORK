@@ -1,7 +1,7 @@
 {
     "name": "Queen-Music Bot",
     "description": "Queen Is A Telegram Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://telegra.ph/file/88a1f6b6f12de827d2710.jpg",
+    "logo": "https://telegra.ph/file/b19fc021bcf48fe6b1653.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -40,12 +40,12 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. You can use special characters bot ko jhaat farak ni padega",
-        "value": "ᴍɪꜱꜱ_ᴏᴘ_Qᴜᴇᴇɴ⁪⁬", 
+        "value": "ᴍɪꜱꜱ_Qᴜᴇᴇɴ⁪⁬_ᴍᴜsɪᴄ", 
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "1624072266",
+        "value": "1476655690",
         "required": true
       },
       "STRING_SESSION": {
@@ -80,7 +80,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/Dangeeop/Queen-music",
+        "value": "https://telegra.ph/file/b19fc021bcf48fe6b1653.jpg",
         "required": true
       },
       "UPSTREAM_BRANCH": {
