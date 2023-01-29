@@ -40,7 +40,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
                 callback_data=f"add_playlist {videoid}",
             ),
             InlineKeyboardButton(
-                text=" ᴏᴡɴᴇʀ 💞", url=f"https://t.me/D4nGeR_0pBolte"
+                text=" ᴏᴡɴᴇʀ 💞", url=f"https://t.me/MAFIA_RJ"
             ),
         ],
         [
@@ -48,12 +48,12 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
                 text=_["PL_B_3"],
                 callback_data=f"PanelMarkup {videoid}|{chat_id}",
             ),
-            InlineKeyboardButton(text="Qᴜᴇᴇɴ ᴄʜᴀᴛ 💌", url=f"https://t.me/QN_Team_support"),
+            InlineKeyboardButton(text="Qᴜᴇᴇɴ ᴄʜᴀᴛ 💌", url=f"https://t.me/QUEEN_SUPPORTS_CHAT"),
         ],
         [
             InlineKeyboardButton(
-                text=f"☀ Qᴜᴇᴇɴ ꜰᴏᴜɴᴅᴇʀ ʟᴏᴠᴇ☀",
-                url=f"https://t.me/ABOUT_CHOUDHARY",
+                text=f"☀ Qᴜᴇᴇɴ Nᴇᴛᴡᴏʀᴋ☀",
+                url=f"https://t.me/QUEEN_NETWORK",
             )
         ],
     ]
@@ -74,14 +74,14 @@ def telegram_markup_timer(_, chat_id, played, dur):
                 text=_["PL_B_2"],
                 callback_data=f"add_playlist {videoid}",
             ),
-            InlineKeyboardButton(text="ᴏᴡɴᴇʀ 💞", url=f"https://t.me/D4nGeR_0pBolte"),
+            InlineKeyboardButton(text="ᴏᴡɴᴇʀ 💞", url=f"https://t.me/MAFIA_RJ"),
         ],
         [
             InlineKeyboardButton(
                 text=_["PL_B_3"],
                 callback_data=f"PanelMarkup None|{chat_id}",
             ),
-            InlineKeyboardButton(text="Qᴜᴇᴇɴ ᴄʜᴀᴛ 💌", url=f"https://t.me/QN_Team_support"),
+            InlineKeyboardButton(text="Qᴜᴇᴇɴ ᴄʜᴀᴛ 💌", url=f"https://t.me/QUEEN_SUPPORTS_CHAT"),
         ],
     ]
     return buttons
@@ -97,14 +97,14 @@ def stream_markup(_, videoid, chat_id):
                 text=_["PL_B_2"],
                 callback_data=f"add_playlist {videoid}",
             ),
-            InlineKeyboardButton(text="ᴏᴡɴᴇʀ 💞", url=f"https://t.me/D4nGeR_0pBolte"),
+            InlineKeyboardButton(text="ᴏᴡɴᴇʀ 💞", url=f"https://t.me/MAFIA_RJ"),
         ],
         [
             InlineKeyboardButton(
                 text=_["PL_B_3"],
                 callback_data=f"PanelMarkup None|{chat_id}",
             ),
-            InlineKeyboardButton(text="Qᴜᴇᴇɴ ᴄʜᴀᴛ 💌", url=f"https://t.me/QN_Team_support"),
+            InlineKeyboardButton(text="Qᴜᴇᴇɴ ᴄʜᴀᴛ 💌", url=f"https://t.me/QUEEN_SUPPORTS_CHAT"),
         ],
     ]
     return buttons
