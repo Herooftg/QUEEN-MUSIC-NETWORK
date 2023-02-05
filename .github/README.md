@@ -2,11 +2,11 @@
 
 <h4 align="center">Queen A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Telethon...</h4>
 
-<p align="center"><a href="https://t.me/D4nGeR_0pBolte"><img src="https://telegra.ph/file/07954f4988b2de090d13d.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/QUEEN_NETWORK"><img src="https://telegra.ph/file/07954f4988b2de090d13d.jpg" width="400"></a></p>
 
 <p align="center">
-    <a href="https://app.codacy.com/manual/Dangerop/Queen-music/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
-    <a href="https://github.com/Dangerop/Queen-music"> <img src="https://img.shields.io/github/repo-size/Dangerop/Queen-musicBot?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://app.codacy.com/manual/Queenop/Queen-music/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
+    <a href="https://github.com/Herooftg/QUEEN-MUSIC-NETWORK"> <img src="https://img.shields.io/github/repo-size/Dangerop/Queen-musicBot?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/Dangerop/Queen-music/commits/prince"> <img src="https://img.shields.io/github/last-commit/Dangerop/Queen-music?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/Dangerop/Queen-music/issues"> <img src="https://img.shields.io/github/issues/Dangerop/Queen-music?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/Dangerop/Queen-music/network/members"> <img src="https://img.shields.io/github/forks/Dangerop/Queen-music?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
@@ -15,7 +15,7 @@
 
 > ⭐️ Thanks to everyone for using Queen, That is the greatest pleasure we have !
 
-### Danger Choudhary– History
+### QUEEN_NETWORK– History
 
 <a href="https://youtube.com/channel/UC_Yi9MsbqgianRifG1oSEtQ"><img src="https://img.shields.io/badge/Join-Subscribe%20Support-blue.svg?style=for-the-badge&logo=YouTube"></a>
 
@@ -131,11 +131,11 @@
 
 ## sᴘᴇᴄɪᴀʟ ᴄʀᴇᴅɪᴛ
 
-- [ABOUT FOUNDER](https://t.me/ABOUT_CHOUDHARY)
-- [DANGER OP](https://github.com/Dangerop)
-- [DANGER TELEGRAM](https://t.me/D4nGeR_0pBolte)
-- [Danger Chats](https://t.me/QN_Team_support)
-- [DANGER op](https://github.com/Dangerop)
+- [ABOUT FOUNDER](https://t.me/QUEEN_NETWORK)
+- [DANGER OP](https://t.me/QUEEN_NETWORK)
+- [DANGER TELEGRAM](https://t.me/QUEEN_NETWORK)
+- [Danger Chats](https://t.me/QUEEN_SUPPORTS_CHAT)
+- [DANGER op](https://t.me/QUEEN_NETWORK)
 
 </details>
 
@@ -143,8 +143,8 @@
 <summary><b>ʙʀᴏᴛʜᴇʀ</b></summary>
 <br>
 
-- [Choudhary](https://t.me/D4nGeR_0pBolte)
-- [love](https://t.me/QN_Team_support)
+- [QUEEN](https://t.me/QUEEN_NETWORK)
+- [love](https://t.me/EBD_524)
 
 </details>
 
@@ -153,10 +153,10 @@
 <br>
 
 # ❤️ Support
-<a href="https://t.me/ABOUT_CHOUDHARY"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/QN_Team_support"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
-<a href="https://t.me/The_Friends_Chatting"><img src="https://img.shields.io/badge/Give-Me%20Heart-blue.svg?logo=telegram"></a>
-<a href="https://t.me/FOR_Unfban"><img src="https://img.shields.io/badge/Give-Me%20Heart-blue.svg?logo=telegram"></a>
+<a href="https://t.me/QUEEN_NETWORK"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/QUEEN_SUPPORTS_CHAT"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/QUEEN_SUPPORTS_CHAT"><img src="https://img.shields.io/badge/Give-Me%20Heart-blue.svg?logo=telegram"></a>
+<a href="https://t.me/QUEEN_SUPPORTS_CHAT"><img src="https://img.shields.io/badge/Give-Me%20Heart-blue.svg?logo=telegram"></a>
 
 </details>
 
