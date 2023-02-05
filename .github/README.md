@@ -132,10 +132,10 @@
 ## sᴘᴇᴄɪᴀʟ ᴄʀᴇᴅɪᴛ
 
 - [ABOUT FOUNDER](https://t.me/QUEEN_NETWORK)
-- [DANGER OP](https://t.me/QUEEN_NETWORK)
-- [DANGER TELEGRAM](https://t.me/QUEEN_NETWORK)
-- [Danger Chats](https://t.me/QUEEN_SUPPORTS_CHAT)
-- [DANGER op](https://t.me/QUEEN_NETWORK)
+- [QUEEN OP](https://t.me/QUEEN_NETWORK)
+- [QUEEN TELEGRAM](https://t.me/QUEEN_NETWORK)
+- [QUEEN Chats](https://t.me/QUEEN_SUPPORTS_CHAT)
+- [QUEEN op](https://t.me/QUEEN_NETWORK)
 
 </details>
 
