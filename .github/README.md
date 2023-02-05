@@ -2,7 +2,7 @@
 
 <h4 align="center">Queen A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Telethon...</h4>
 
-<p align="center"><a href="https://t.me/QUEEN_NETWORK"><img src="https://telegra.ph/file/07954f4988b2de090d13d.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/QUEEN_NETWORK"><img src="https://telegra.ph/file/76b2b8b607cf262e0f322.jpg" width="400"></a></p>
 
 <p align="center">
     <a href="https://app.codacy.com/manual/Queenop/Queen-music/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
